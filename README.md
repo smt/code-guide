@@ -8,11 +8,11 @@ Code Guide is a project for documenting standards for developing flexible, durab
 
 ### License
 
-Released under MIT by, and copyright 2014, @mdo.
+Released under MIT by, and copyright 2014, @tagsoup.
 
 ### Thanks
 
-Heavily inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css) and the [GitHub Styleguide](http://github.com/styleguide).
+Forked from [@mdo](https://twitter.com/mdo)'s [Code Guide](http://codeguide.co) by [@tagsoup](https://twitter.com/tagsoup), in part to incorporate additional concepts from [North](http://pointnorth.io).
 
 ### Translations
 
