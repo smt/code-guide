@@ -1,6 +1,6 @@
-name:          Code Guide by @mdo
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://codeguide.co
+name:          Code Guide
+description:   Standards for developing flexible, durable, and sustainable HTML, CSS, and JavaScript.
+url:           http://codeguide.stephentudor.com
 
 markdown:      rdiscount
 permalink:     pretty
